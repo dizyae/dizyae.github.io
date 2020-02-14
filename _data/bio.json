@@ -1,39 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Dustin Weaver",
+    "label": "Software Engineer",
+    "picture": "https://dizyae.github.io/template/images/me.png",
+    "email": "dustin.vincent.weaver@gmail.com",
+    "phone": "909-801-0080",
+    "website": "https://dustinweaver.com",
+    "summary": "Competent and resourceful application architect with a focus on code quality. Dedicated to using best coding practices, test driven development, and implementation of emerging tools of the trade. Advanced knowledge of Javascript libraries and frameworks such as jQuery, ReactJS, and Angular. Over 8 years professional experience working on the LAMP stack. Closely involved with clients and product owners to develop full featured enterprise applications and public facing websites within the agile methodology. I am fluent in English and Spanish.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "92584",
+      "city": "Menifee",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "dizyae",
+        "url": "http://github.com/dizyae"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "dustinweaver1",
+        "url": "http://linkedin.com/in/dustinweaver1"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "dizyae",
+        "url": "http://instagram.com/dizyae"
       }
     ]
   },
@@ -46,27 +41,37 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Crypto Currency",
       "keywords": [
+        "Bitcoin",
+        "Litecoin",
+        "Coinbase"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Travel",
       "keywords": [
+        "Central/South America",
+        "Caribbean",
+        "Surfing",
+        "Sailing"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "LAMP Stack",
+        "MySQL",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Node.js",
+        "Angular",
+        "React",
+        "Laravel",
+        "CakePhp",
+        "CodeIgniter"
       ]
     },
     {
@@ -76,88 +81,65 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Atlassian Suite",
+        "Docker"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Riverside Community College",
+      "area": "Web Development",
+      "studyType": "Certification",
+      "startDate": "2011-08-01",
+      "endDate": "2012-12-31",
+      "gpa": "3.6",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "All Digital Rewards",
+      "position": "Lead Frontend Developer",
+      "website": "https://alldigitalrewards.com",
+      "startDate": "2018-09-10",
+      "endDate": "2020-02-14",
+      "summary": "Lead development of new UI/UX features",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Implementation of security measures and speed optimizations on user facing applications."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "The Cheat Sheet",
+      "position": "Software Engineering Manager",
+      "website": "https://cheatsheet.com",
+      "startDate": "2017-02-22",
+      "endDate": "2018-06-23",
+      "summary": "Hands on team management within the software engineering dept",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Development of a software development live cycle to be put into practice by team",
+        "Improvement in performance of ads with regards to page load time having a directly positive effect on revenue"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Payscape",
+      "position": "Software Engineer",
+      "website": "https://payscape.com",
+      "startDate": "2015-01-21",
+      "endDate": "2017-08-28",
+      "summary": "Project lead on many revenue producing application",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Resolved many long standing issues that had persisted for years/months before my hiring"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
+      "title": "Top Performer of the Year",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Payscape",
+      "summary": "Awarded for my achievements in providing solutions to technical problems facing the company"
     }
   ],
   "references": [
